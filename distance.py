@@ -1,4 +1,6 @@
 """ Distance measures. """
+import numpy as np
+
 
 def l2(x1, x2, axis=0):
     """
